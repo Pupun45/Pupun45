@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hello, Developers! I'm Ramya</h1>
+<h1 align="center">👋 Hello, Developers! I'm Jyotiranjan Behera</h1>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bombat18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bombat18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pupun45&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pupun45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <a href="ramyaranjan78@gmail.com" target="_blank">
+  <a href="jyotiranjanbehera282@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ramyaranjan-sethi-46a6b2228/" target="_blank">
