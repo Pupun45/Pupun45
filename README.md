@@ -40,10 +40,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
    
-  <a href="https://www.linkedin.com/in/ramyaranjan-sethi-46a6b2228/" target="_blank">
+  <a href="[(https://www.linkedin.com/in/jyotiranjan-behera-2b50902aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/RAMYARANJANSET1?s=09" target="_blank">
+  <a href="(https://github.com/Pupun45)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
 </div>
