@@ -78,15 +78,16 @@
 
 ![Pupun45 GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Pupun45&theme=tokyonight&hide_border=false)
 <br/><br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupun45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=3600)
+![Top Languages](https://github-readme-stats-git-main-bharatinfotechie.vercel.app/api/top-langs/?username=Pupun45&theme=tokyonight&layout=compact&hide_border=false)
 
  <!-- [![](https://visitcount.itsvg.in/api?id=Pupun45&icon=0&color=0)](https://visitcount.itsvg.in)  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pupun45&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Pupun45 trophies" />
+  <img src="https://github-profile-trophy-ninebasenine.vercel.app/?username=Pupun45&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="Pupun45 trophies" />
 </div>
+
 
 
 
