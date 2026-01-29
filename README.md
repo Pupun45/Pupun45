@@ -76,7 +76,7 @@
 
 # 📊 GitHub Stats:
 
-![Pupun45 GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Pupun45&theme=tokyonight&hide_border=false) , 
+![Pupun45 GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Pupun45&theme=tokyonight&hide_border=false) 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pupun45&theme=tokyonight&layout=compact&hide_border=false)
 
 
