@@ -74,7 +74,7 @@
 
 <br/>  
 
-# 📊 GitHub Stats:-
+# 📊 GitHub Stats
 
 ![Pupun45 GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Pupun45&theme=tokyonight&hide_border=false) 
 
