@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, Developers! I'm Jyotiranjan Behera</h1>
+<h1 align="center">👋 Hello, Developers! I'm Jyoti Ranjan Behera</h1>
 
 
 ## 🌐 Socials:
